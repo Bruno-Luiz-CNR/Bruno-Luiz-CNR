@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Seja, bem vindo!</h2>
+<h2> Seja bem-vindo!</h2>
 </div>
 <div align="center">
   <a href="https://github.com/Bruno-Luiz-CNR">
